@@ -33,9 +33,19 @@
   python manage.py runserver
 
 ## Screenshots
-<img width="600" alt="Input" src="https://github.com/user-attachments/assets/26bc54ce-7856-44b6-8246-e7d3c649c89e">
-<img width="600" alt="Output_1" src="https://github.com/user-attachments/assets/15873550-8e56-407f-b640-e0168a4d38bb">
-<img width="600" alt="Output_2" src="https://github.com/user-attachments/assets/560e5b06-25eb-4cef-a69d-9dbece989a4a">
+- Sample of Fake news and True News for input
+
+
+  <img width="600" alt="Input" src="https://github.com/user-attachments/assets/26bc54ce-7856-44b6-8246-e7d3c649c89e">
+
+- Fake News 
+
+  <img width="600" alt="Output_1" src="https://github.com/user-attachments/assets/15873550-8e56-407f-b640-e0168a4d38bb">
+
+- True News
+
+  
+  <img width="600" alt="Output_2" src="https://github.com/user-attachments/assets/560e5b06-25eb-4cef-a69d-9dbece989a4a">
 
 
 
